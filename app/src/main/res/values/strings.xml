@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LoginRegister_Retrofit</string>
+    <string name="signup">signup</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">full name</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string-array name="city">
+        <item>City</item>
+
+        <item>cairo</item>
+
+        <item>elmahalla</item>
+
+        <item>elmansoura</item>
+
+        <item>banha</item>
+
+    </string-array>
+    <string-array name="country">
+        <item>Country</item>
+
+        <item>Egypt</item>
+
+        <item>tonis</item>
+
+        <item>knada</item>
+
+        <item>italy</item>
+
+    </string-array>
+</resources>
